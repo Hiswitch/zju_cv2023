@@ -1,0 +1,13 @@
+pandas
+XlsxWriter
+
+# no need to install following if using same environment as demo
+matplotlib
+numpy
+scipy
+opencv-python
+tensorflow>=2.6.0
+# tensorflow-gpu>=2.6.0
+tqdm
+
+
